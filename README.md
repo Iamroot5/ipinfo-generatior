@@ -1,1 +1,3 @@
 # ipinfo-generatior
+
+cd iamroot
